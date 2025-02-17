@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@layer base {
+  * {
+    @apply box-border m-0 p-0;
+  }
+}
+
+body {
+  font-family: 'Manrope', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  @apply mx-auto w-full max-w-[1920px] px-4 xl:px-[150px];
+}
+
+footer {
+  background-image: url('./assets/images/footer-shape.svg');
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: 100 100;
+}
