@@ -1,5 +1,4 @@
-// Import your loading image
-import loadingImg from './assets/images/loading.gif'; // Adjust the path based on your folder structure
+import loadingImg from './assets/images/loading.gif';
 
 const Loading = () => {
   return (

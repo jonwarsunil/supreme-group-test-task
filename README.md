@@ -83,26 +83,43 @@ The code is clean, modular, and adheres to modern best practices in frontend dev
 Dependencies:
 
 @hookform/resolvers: "^4.1.0"
+
 @tailwindcss/vite: "^4.0.6"
+
 react: "^19.0.0"
+
 react-dom: "^19.0.0"
+
 react-hook-form: "^7.54.2"
+
 react-router-dom: "^7.1.5"
+
 tailwindcss: "^4.0.6"
+
 yup: "^1.6.1"
 
 Dev Dependencies:
 
 @eslint/js: "^9.19.0"
+
 @types/react: "^19.0.8"
+
 @types/react-dom: "^19.0.3"
+
 @vitejs/plugin-react: "^4.3.4"
+
 eslint: "^9.19.0"
+
 eslint-plugin-react-hooks: "^5.0.0"
+
 eslint-plugin-react-refresh: "^0.4.18"
+
 globals: "^15.14.0"
+
 typescript: "~5.7.2"
+
 typescript-eslint: "^8.22.0"
+
 vite: "^6.1.0"
 arduino
 Copy
