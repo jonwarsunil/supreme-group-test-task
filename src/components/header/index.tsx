@@ -16,7 +16,6 @@ const Header: React.FC = () => {
           </Link>
           <div className='hidden sm:flex items-center space-x-10'>
             <Button>Contact Us</Button>
-            <Link to='/about-us'>About Us</Link>
             <a href='https://www.linkedin.com/' className='text-gray-700 hover:text-gray-900' target='_blank'>
               <LinkedinIcon />
             </a>
