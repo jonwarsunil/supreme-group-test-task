@@ -1,6 +1,6 @@
 # supreme-group-test-task
 
-This is a frontend application for Supreme Group, built using React, Vite, TailwindCSS, and other modern libraries. The project includes responsive design, performance optimizations, and accessibility considerations.
+This is a frontend application for Supreme Group, built using React, Typescript, Vite, TailwindCSS, and other modern libraries. The project includes responsive design, performance optimizations, and accessibility considerations.
 
 ## Project Setup
 
