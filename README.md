@@ -8,7 +8,7 @@ To set up the project locally, follow the steps below:
 
 1. Clone this repository:
 
-   git clone https://github.com/jonwarsunil/sonchi-frontend.git
+   git clone https://github.com/jonwarsunil/supreme-group-test-task.git
    cd supreme-group-frontend
 
 2. Install dependencies:
