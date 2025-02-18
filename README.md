@@ -30,9 +30,9 @@ TailwindCSS is used for styling, ensuring a mobile-first, responsive design.
 Folder Structure :
 
 src/components: Contains components/reusable UI components include home, header, footer section.
-src/componetts/typography: I created a common typography component for all heading types and paragraphs."
-src/componetts/input-field: Created for common reusabel inputtype
-src/componetts/button: Created for common reusabel buttons all over the website
+src/components/typography: I created a common typography component for all heading types and paragraphs."
+src/components/input-field: Created for common reusabel inputtype
+src/components/button: Created for common reusabel buttons all over the website
 scr/404: A 404 page is created to handle broken or non-existent URLs, improving user experience, navigation
 
 Responsive Design Strategy :
